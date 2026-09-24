@@ -138,7 +138,7 @@ while angka <= 49:
 print("---akhir dari program---\n")
 
 # 2. Buat program yang menampilkan semua bilanagn prima antara 1 sampai 100 menggunakan perulanagn
-# print("\n---mulai---")
+print("\n---mulai---")
 
 for a in range(2,101): # a itu angka yang dimasukkan
     prima = True
